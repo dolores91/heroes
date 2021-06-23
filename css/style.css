@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+.top{
+    background-color:#1CD1B0;
+    ;
+}
+.titulo{
+    background-color: #00669F;
+}
+footer{
+    background-color: #00669F;
+}
+.batman{
+    display: inline-block;
+    margin: 150px 150px 70px 70px;
+    height: 193px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: #F3F3F3;
+    position: relative;
+}
+.harley{
+    display: inline-block;
+    margin: 150px 150px 70px 70px;
+  height: 193px;
+  width: 300px;
+  border-radius: 10px;
+  background-color: #F3F3F3;
+  position: relative;
+}
+.batman2{
+    display: inline-block;
+    margin: 150px 150px 70px 70px;
+  height: 193px;
+  width: 300px;
+  border-radius: 10px;
+  background-color: #F3F3F3;
+  position: relative;
+}
+
+
+.perfil img{
+    border-radius: 50%;
+    position:absolute;
+}
